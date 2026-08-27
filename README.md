@@ -8,7 +8,6 @@ About Me
 🎓 Currently pursuing BTech in Information Technology
 💻 Comfortable coding in Python
 🌱 Actively strengthening my CS fundamentals and problem-solving skills
-🎯 Long-term goal: crack GATE CSE and pursue an MTech at IISc Bangalore
 ⚡ Always open to learning new tools, languages, and ways of thinking about problems
 <br>
 Tech Stack
@@ -18,7 +17,7 @@ GitHub Stats
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BidiptoSarkar&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=cba6f7&ring=f5c2e7&fire=f38ba8&currStreakLabel=cdd6f4" width="60%" /> </div> <br> <div align="center">
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
 <sub>Thanks for visiting my profile ✦</sub>
 
