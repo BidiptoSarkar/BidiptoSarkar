@@ -12,12 +12,6 @@ About Me
 <br>
 Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,vscode,html,css&theme=dark" /> </div> <br>
-GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BidiptoSarkar&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidiptoSarkar&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" width="42%" />
-
-<br><br>
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
 <sub>Thanks for visiting my profile ✦</sub>
 
